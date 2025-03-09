@@ -1,0 +1,29 @@
+# 🚀 Web Framework & Server
+fastapi==0.110.0   # FastAPI framework to create APIs
+uvicorn==0.29.0    # ASGI server to run FastAPI apps
+
+# 📄 Resume Parsing Libraries
+pymupdf==1.23.6    # Extracts text from PDF files
+python-docx==1.1.2 # Reads text from DOCX files (optional)
+
+# 🧠 NLP & Text Processing
+spacy==3.7.3       # NLP library to process resumes
+pydantic==2.6.4    # Data validation for API requests in FastAPI
+
+# 🎯 NLP Model (Download separately)
+# Run this command after installing: python -m spacy download en_core_web_sm
+
+# 📊 Database Support (Choose one)
+asyncpg==0.29.0    # PostgreSQL driver for async database operations
+sqlalchemy==2.0.29 # ORM for working with relational databases
+# motor==3.4.0      # (Alternative) MongoDB async driver (use if needed)
+
+# ⚡ Development & Debugging
+tqdm==4.66.2       # Progress bar for long-running tasks
+loguru==0.7.2      # Advanced logging for debugging
+pytest==8.1.1      # Testing framework for API unit tests
+
+# How To Install
+#pip install -r requirements.txt
+#after the install :
+#python -m spacy download en_core_web_sm
