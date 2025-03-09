@@ -1,0 +1,16 @@
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment
+venv/
+
+# Ignore PyCharm project files
+.idea/
+
+# Ignore logs & temp files
+*.log
+*.sqlite3
+
+# Ignore environment variables (if using .env)
+.env
