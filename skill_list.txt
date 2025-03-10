@@ -1,29 +1,272 @@
-# 🚀 Web Framework & Server
-fastapi==0.110.0   # FastAPI framework to create APIs
-uvicorn==0.29.0    # ASGI server to run FastAPI apps
-
-# 📄 Resume Parsing Libraries
-pymupdf==1.23.6    # Extracts text from PDF files
-python-docx==1.1.2 # Reads text from DOCX files (optional)
-
-# 🧠 NLP & Text Processing
-spacy==3.7.3       # NLP library to process resumes
-pydantic==2.6.4    # Data validation for API requests in FastAPI
-
-# 🎯 NLP Model (Download separately)
-# Run this command after installing: python -m spacy download en_core_web_sm
-
-# 📊 Database Support (Choose one)
-asyncpg==0.29.0    # PostgreSQL driver for async database operations
-sqlalchemy==2.0.29 # ORM for working with relational databases
-# motor==3.4.0      # (Alternative) MongoDB async driver (use if needed)
-
-# ⚡ Development & Debugging
-tqdm==4.66.2       # Progress bar for long-running tasks
-loguru==0.7.2      # Advanced logging for debugging
-pytest==8.1.1      # Testing framework for API unit tests
-
-# How To Install
-#pip install -r requirements.txt
-#after the install :
-#python -m spacy download en_core_web_sm
+Python
+JavaScript
+Java
+C++
+C#
+Go
+Ruby
+Swift
+Kotlin
+TypeScript
+PHP
+Rust
+R
+Dart
+Scala
+Perl
+Lua
+Haskell
+Objective-C
+C
+Groovy
+F#
+Elixir
+Erlang
+VB.NET
+HTML
+CSS
+JavaScript
+TypeScript
+React.js
+Vue.js
+Angular
+Svelte
+Next.js
+Nuxt.js
+Gatsby.js
+jQuery
+Bootstrap
+Tailwind CSS
+Material UI
+Bulma
+SCSS
+Less
+Styled Components
+Web Components
+Shadow DOM
+Node.js
+Express.js
+NestJS
+Django
+Flask
+FastAPI
+Spring Boot
+ASP.NET Core
+Ruby on Rails
+Laravel
+CodeIgniter
+CakePHP
+Koa.js
+Hapi.js
+Fiber (Go)
+Gin (Go)
+Echo (Go)
+Phoenix (Elixir)
+Play Framework (Scala)
+Node.js
+Express.js
+NestJS
+Django
+Flask
+FastAPI
+Spring Boot
+ASP.NET Core
+Ruby on Rails
+Laravel
+CodeIgniter
+CakePHP
+Koa.js
+Hapi.js
+Fiber (Go)
+Gin (Go)
+Echo (Go)
+Phoenix (Elixir)
+Play Framework (Scala)
+Docker
+Kubernetes
+Terraform
+Jenkins
+GitHub Actions
+GitLab CI/CD
+Travis CI
+CircleCI
+Ansible
+Puppet
+Chef
+Vagrant
+Helm
+AWS CloudFormation
+ArgoCD
+FluxCD
+Prometheus
+Grafana
+New Relic
+Sentry
+Datadog
+Elastic Stack (ELK)
+AWS
+Azure
+Google Cloud
+Firebase
+DigitalOcean
+Linode
+Heroku
+Netlify
+Vercel
+Cloudflare
+Lambda Functions
+Cloud Functions
+Kubernetes Engine
+AWS ECS
+AWS EKS
+Google App Engine
+Azure Functions
+IBM Cloud
+Oracle Cloud
+Git
+GitHub
+GitLab
+Bitbucket
+SVN
+Mercurial
+Perforce
+Bazaar
+Jest
+Mocha
+Chai
+Cypress
+Puppeteer
+Selenium
+JMeter
+Karma
+JUnit
+PyTest
+Cucumber
+TestCafe
+Playwright
+Robot Framework
+xUnit
+Postman
+Fiddler
+Burp Suite
+Flutter
+React Native
+SwiftUI
+Jetpack Compose
+Xamarin
+Cordova
+Ionic
+Kotlin Multiplatform
+Android SDK
+iOS SDK
+Objective-C
+Unity
+Unreal Engine
+Godot
+CryEngine
+Phaser.js
+Pygame
+Cocos2d
+Three.js
+Babylon.js
+Construct 3
+TensorFlow
+PyTorch
+Scikit-learn
+Keras
+OpenCV
+spaCy
+NLTK
+Hugging Face Transformers
+XGBoost
+LightGBM
+CatBoost
+FastAI
+Theano
+Dask
+Ray
+MLflow
+ONNX
+Triton Inference Server
+TFLite
+TorchServe
+Kali Linux
+Metasploit
+Wireshark
+Snort
+Nmap
+OSSEC
+Nessus
+Burp Suite
+OpenVAS
+Splunk
+SIEM
+Wazuh
+Zeek (Bro)
+Solidity
+Ethereum
+Rust (for Solana)
+Hardhat
+Truffle
+Ganache
+Web3.js
+Ethers.js
+Polkadot.js
+IPFS
+Hyperledger
+Corda
+Arduino
+Raspberry Pi
+ESP32
+MicroPython
+Zephyr
+MQTT
+LoRaWAN
+Bluetooth LE
+Modbus
+CAN Bus
+Apache Spark
+Apache Hadoop
+Apache Kafka
+Flink
+Beam
+Airflow
+Dask
+Databricks
+Snowflake
+BigQuery
+Redshift
+Hive
+Pig
+Presto
+Iceberg
+Hudi
+Bubble
+OutSystems
+Mendix
+Adalo
+Webflow
+Glide
+Retool
+AppGyver
+Thunkable
+Zapier
+Make (Integromat)
+PowerApps
+Agile Methodologies
+Scrum
+Kanban
+CI/CD Pipelines
+Design Patterns
+Microservices Architecture
+Event-Driven Architecture
+Message Queues (RabbitMQ, Kafka)
+Data Structures & Algorithms
+RESTful API Design
+GraphQL API Design
+OAuth 2.0
+JWT Authentication
+Linux System Administration
+Shell Scripting (Bash, PowerShell)
+Regular Expressions
+Data Visualization (D3.js, Matplotlib, Seaborn)
