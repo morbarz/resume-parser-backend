@@ -25,3 +25,4 @@ db = client.resume_parser
 # "resumes" will store all parsed resumes.
 resume_collection = db.resumes
 user_collection = db.users
+job_collection = db.jobs
